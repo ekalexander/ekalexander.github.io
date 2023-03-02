@@ -43,14 +43,14 @@ The Association for Constraint Programming (A4CP).
 ### Books and Theses
 
 **Alexander Ek**.
-""
+"High-Level Modelling and Solving for Online, Real-Time, and Multiagent Combinatorial Optimisation".
 PhD Thesis. Faculty of IT, Monash University, 2022.
-(Link)[https://doi.org/10.26180/21588144.v1]
+[Link](https://doi.org/10.26180/21588144.v1)
 
 **Alexander Ek**.
-""
+"Automatic Predicate Encapsulation of Potentially Profitably Presolvable Submodels in MiniZinc".
 MSc Thesis. Dept. of IT, Uppsala University. 2018.
-(Link)[http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-351965]
+[Link](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-351965)
 
 ### Journals and Refereed Conferences
 
@@ -59,19 +59,19 @@ MSc Thesis. Dept. of IT, Uppsala University. 2018.
 **Alexander Ek**, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 "Explaining Propagation for Gini and Spread with Variable Mean".
 In: Principles and Practice of Constraint Programming (CP’22). LIPIcs 235. Schloss Dagstuhl, 2022, pp. 21:1-21:16.
-(Link)[https://doi.org/10.4230/LIPIcs.CP.2022.21]
+[Link](https://doi.org/10.4230/LIPIcs.CP.2022.21)
 
 #### 2020
 
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Aggregation and Garbage Collection for Online Optimization”.
 In: Principles and Practice of Constraint Programming (CP’20). LNCS 12333. Springer, 2020, pp. 231–247.
-(Link)[https://doi.org/10.1007/978-3-030-58475-7_14]
+[Link](https://doi.org/10.1007/978-3-030-58475-7_14)
 
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Modelling and Solving Online Optimisation Problems”.
 In: Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI’20). AAAI Press, 2020, pp. 1477–1485.
-(Link)[https://doi.org/10.1609/aaai.v34i02.5506]
+[Link](https://doi.org/10.1609/aaai.v34i02.5506)
 
 ### Workshops, Symposia, and Informal Conferences
 
