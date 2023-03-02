@@ -1,9 +1,3 @@
----
-title: Alexander Ek | Personal Website
----
-
-# Alexander Ek
-
 Research Fellow\
 Dept. of Econometrics and Business Statistics, Monash Business School, Monash University\
 Building 6, 29 Ancora Imparo Way, Clayton\
