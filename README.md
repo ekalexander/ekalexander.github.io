@@ -66,12 +66,15 @@ In: Principles and Practice of Constraint Programming (CP’22). LIPIcs 235. Sch
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Aggregation and Garbage Collection for Online Optimization”.
 In: Principles and Practice of Constraint Programming (CP’20). LNCS 12333. Springer, 2020, pp. 231–247.
-[Link](https://doi.org/10.1007/978-3-030-58475-7_14)
+[Link](https://doi.org/10.1007/978-3-030-58475-7_14).
 
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Modelling and Solving Online Optimisation Problems”.
 In: Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI’20). AAAI Press, 2020, pp. 1477–1485.
-[Link](https://doi.org/10.1609/aaai.v34i02.5506)
+[Link](https://doi.org/10.1609/aaai.v34i02.5506).
 
-### Workshops, Symposia, and Informal Conferences
+### Workshops, Symposia, Consortia, Informal Conferences, and Extended Abstracts
 
+**Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
+“Modelling and Solving Online Optimisation Problems”.
+In: Eighteenth Workshop on Constraint Modelling and Reformulation (ModRef’19), 2019.
