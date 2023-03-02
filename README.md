@@ -1,3 +1,7 @@
+---
+title: Alexander Ek | Personal Website
+---
+
 # Alexander Ek
 
 Research Fellow\
