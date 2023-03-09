@@ -1,9 +1,22 @@
+![me](./alexanderek.jpg)
+
 Research Fellow\
 Dept. of Econometrics and Business Statistics, Monash Business School, Monash University\
 Building 6, 29 Ancora Imparo Way, Clayton\
 VIC 3168, Australia\
 alexander.ek@monash.edu\
 www.alexanderek.com
+
+#### Table of Contents
+
+[Summary](#summary)\
+[Education](#education)\
+[Positions](#positions)\
+[Memberships](#memberships)\
+[Recognition](#recognition)\
+[Publications](#publications)\
+[Teaching](#teaching)\
+[Supervision](#supervision)\
 
 
 ## Summary
@@ -37,6 +50,16 @@ Sep 2018 to Jul 2022 - **Research Student** in the Analytics and Decision Scienc
 
 The Association for Constraint Programming (A4CP).
 
+## Recognition
+
+2019 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+2022 once - Graduate Research Completion Award. By Monash University, Australia.\
+2022 once - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
+2018-2022 - Data61 Top-up Scholarship. By CSIRO Data61, Australia.\
+2018-2022 - Co-Funded Monash Graduate Scholarship. By Monash University, Australia.\
+2018-2022 - Faculty of IT International Postgraduate Research Scholarship. By Monash University, Australia.\
+2019 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+2014, 2015, 2016 - Johan and Hjalmar Kallenbergs Scholarship (20,000 SEK x3). By Johan and Hjalmar Kallenbergs Foundation, Sweden.
 
 ## Publications
 
