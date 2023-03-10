@@ -16,7 +16,7 @@ www.alexanderek.com
 [Recognition](#recognition)\
 [Publications](#publications)\
 [Teaching](#teaching)\
-[Supervision](#supervision)\
+[Supervision and Mentoring](#supervision-and-mentoring)\
 
 
 ## Summary
@@ -52,7 +52,7 @@ The Association for Constraint Programming (A4CP).
 
 ## Recognition
 
-2019 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+2022 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
 2022 once - Graduate Research Completion Award. By Monash University, Australia.\
 2022 once - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
 2018-2022 - Data61 Top-up Scholarship. By CSIRO Data61, Australia.\
@@ -101,3 +101,27 @@ In: Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI’20). AAAI P
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Modelling and Solving Online Optimisation Problems”.
 In: Eighteenth Workshop on Constraint Modelling and Reformulation (ModRef’19), 2019.
+
+## Teaching
+
+### Monash University (2018-2021)
+
+**Head Teaching Associate**. Modelling Discrete Optimisation Problems (FIT5216). Monash University, Australia. 2021, 2020.\
+**Head Teaching Associate**. Solving Discrete Optimisation Problems (FIT5220). Monash University, Australia. 2021, 2020 (x2).\
+**Teaching Associate**. Introduction to Computer Science (FIT1008, FIT1054, FIT2085). Monash University, Australia. 2019.
+
+### Uppsala University (2014-2018)
+
+**Teaching Associate**. Operating Systems and Process-Oriented Programming (1DT096). Uppsala University, Sweden. 2018.\
+**Teaching Associate**. Operating Systems (1DT044). Uppsala University, Sweden. 2018.\
+**Teaching Associate**. Algorithms and Data Structures II (1DL231). Uppsala University, Sweden. 2017.\
+**Teaching Associate**. Software Testing (1DL610). Uppsala University, Sweden. 2017.\
+**Teaching Assistant**. Program Design and Data Structures (1DL201). Uppsala University, Sweden. 2015, 2014
+
+
+## Supervision and Mentoring
+
+Co-Supervisor of Research Assistant. School of Mathematics and Statistics. The University of Melbourne. 2023.\
+Co-Supervisor of Undergraduate Research Project. School of Mathematics and Statistics. The University of Melbourne. 2022.\
+Co-Supervisor of Summer Student Research Project. At Optimisation Group, Monash University, Australia. 2020-2021.\
+Student Mentor for the Bachelors’ Programme in Computer Science. At Uppsala University, Sweden. 2013.
