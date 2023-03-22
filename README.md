@@ -16,7 +16,7 @@ www.alexanderek.com
 [Recognition](#recognition)\
 [Publications](#publications)\
 [Teaching](#teaching)\
-[Supervision and Mentoring](#supervision-and-mentoring)\
+[Supervision and Mentoring](#supervision-and-mentoring)
 
 
 ## Summary
@@ -50,6 +50,8 @@ Sep 2018 to Jul 2022 - **Research Student** in the Analytics and Decision Scienc
 
 The Association for Constraint Programming (A4CP).
 
+The Statistical Society of Australia (SSA).
+
 ## Recognition
 
 2022 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
@@ -59,7 +61,7 @@ The Association for Constraint Programming (A4CP).
 2018-2022 - Co-Funded Monash Graduate Scholarship. By Monash University, Australia.\
 2018-2022 - Faculty of IT International Postgraduate Research Scholarship. By Monash University, Australia.\
 2019 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
-2014, 2015, 2016 - Johan and Hjalmar Kallenbergs Scholarship (20,000 SEK x3). By Johan and Hjalmar Kallenbergs Foundation, Sweden.
+2014, 2015, 2016 - Johan and Hjalmar Kallenbergs Scholarship. By Johan and Hjalmar Kallenbergs Foundation, Sweden.
 
 ## Publications
 
