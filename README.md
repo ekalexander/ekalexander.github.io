@@ -54,6 +54,7 @@ The Statistical Society of Australia (SSA).
 
 ## Recognition
 
+2022 once - Quality Conference Travel Fund Grant, Monash University, 2022.\
 2022 once - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
 2022 once - Graduate Research Completion Award. By Monash University, Australia.\
 2022 once - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
