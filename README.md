@@ -16,7 +16,7 @@ www.alexanderek.com
 [Recognition](#recognition)\
 [Publications](#publications)\
 [Teaching](#teaching)\
-[Supervision and Mentoring](#supervision-and-mentoring)
+[Supervision and Mentoring](#supervision-and-mentoring)\
 [Service](#service)
 
 
