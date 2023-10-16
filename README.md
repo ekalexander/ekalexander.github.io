@@ -55,14 +55,15 @@ The Statistical Society of Australia (SSA).
 
 ## Recognition
 
-**2022 once** - Quality Conference Travel Fund Grant, Monash University, 2022.\
-**2022 once** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
-**2022 once** - Graduate Research Completion Award. By Monash University, Australia.\
-**2022 once** - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
+**2023** - Best Paper Award, E-Vote-ID, 2023. For "Adaptively Weighted Audits of Instant-Runoff Voting Elections: AWAIRE".\
+**2022** - Quality Conference Travel Fund Grant, Monash University, 2022.\
+**2022** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+**2022** - Graduate Research Completion Award. By Monash University, Australia.\
+**2022** - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
 **2018-2022** - Data61 Top-up Scholarship. By CSIRO Data61, Australia.\
 **2018-2022** - Co-Funded Monash Graduate Scholarship. By Monash University, Australia.\
 **2018-2022** - Faculty of IT International Postgraduate Research Scholarship. By Monash University, Australia.\
-**2019 once** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+**2019** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
 **2014, 2015, 2016** - Johan and Hjalmar Kallenbergs Scholarship. By Johan and Hjalmar Kallenbergs Foundation, Sweden.
 
 ## Publications
@@ -85,7 +86,8 @@ MSc Thesis. Dept. of IT, Uppsala University. 2018.
 
 **Alexander Ek**, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
 "Adaptively Weighted Audits of Instant-Runoff Voting Elections: AWAIRE".
-In: 8th International Joint Conference on Electronic Voting (E-Vote-ID’23). LNCS. Springer. Forthcoming.
+In: 8th International Joint Conference on Electronic Voting (E-Vote-ID’23). LNCS 14230. Springer, 2023, pp. 35-51.
+[Link](https://doi.org/10.1007/978-3-031-43756-4_3)
 
 #### 2022
 
