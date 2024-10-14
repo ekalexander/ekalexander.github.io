@@ -56,19 +56,20 @@ The Statistical Society of Australia (SSA).
 ## Recognition
 
 **2023** - Best Paper Award, E-Vote-ID, 2023. For "Adaptively Weighted Audits of Instant-Runoff Voting Elections: AWAIRE".\
-**2022** - Quality Conference Travel Fund Grant, Monash University, 2022.\
-**2022** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
+**2022** - Quality Conference Travel Fund Grant, Monash University.\
+**2022** - Doctoral Program Financial Travel Support. By The Association for Constraint Programming, France.\
 **2022** - Graduate Research Completion Award. By Monash University, Australia.\
-**2022** - Monash Departmental Scholarship. By Department of Data Science & AI, Monash University, Australia.\
+**2021** - Best Poster Award, International School in AI and its Applications in Computer Science, Monash University, Australia.\
+**2019** - Postgraduate Travel Grant, By Monash University Graduate Education, Australia.\
+**2019** - Doctoral Program Financial Travel Support. By The Association for Constraint Programming, France.\
 **2018-2022** - Data61 Top-up Scholarship. By CSIRO Data61, Australia.\
 **2018-2022** - Co-Funded Monash Graduate Scholarship. By Monash University, Australia.\
 **2018-2022** - Faculty of IT International Postgraduate Research Scholarship. By Monash University, Australia.\
-**2019** - Doctoral Program Financial Support. By The Association for Constraint Programming, France.\
 **2014, 2015, 2016** - Johan and Hjalmar Kallenbergs Scholarship. By Johan and Hjalmar Kallenbergs Foundation, Sweden.
 
 ## Publications
 
-### Books and Theses
+### Theses
 
 **Alexander Ek**.
 "High-Level Modelling and Solving for Online, Real-Time, and Multiagent Combinatorial Optimisation".
@@ -80,13 +81,25 @@ PhD Thesis. Faculty of IT, Monash University, 2022.
 MSc Thesis. Dept. of IT, Uppsala University. 2018.
 [Link](http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-351965)
 
-### Journals and Refereed Conferences
+### Refereed Journal and Conference Publications
 
-#### 2022
+#### 2024
+
+**Alexander Ek**, Michelle Blom, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
+"Improving the Computational Efficiency of Adaptive Audits of IRV Elections".
+In: Electronic Voting. E-Vote-ID'24. LNCS 15014. Springer, 2023, pp. 37-53.
+[Link](https://doi.org/10.1007/978-3-031-72244-8_3)
+
+**Alexander Ek**, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
+"Efficient Weighting
+Schemes for Auditing Instant-Runoff Voting Elections".
+In: Financial Cryptography and Data Security: FC 2024 International Workshops. VOTING’24. LNC. Springer, 2024, Forthcoming.
+
+#### 2023
 
 **Alexander Ek**, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
 "Adaptively Weighted Audits of Instant-Runoff Voting Elections: AWAIRE".
-In: 8th International Joint Conference on Electronic Voting (E-Vote-ID’23). LNCS 14230. Springer, 2023, pp. 35-51.
+In: Electronic Voting. E-Vote-ID'23. LNCS 14230. Springer, 2023, pp. 35-51.
 [Link](https://doi.org/10.1007/978-3-031-43756-4_3)
 
 #### 2022
@@ -110,28 +123,35 @@ In: 34th AAAI Conference on Artificial Intelligence (AAAI’20). AAAI Press, 202
 
 ### Workshops, Symposia, Consortia, Informal Conferences, and Extended Abstracts
 
+Andrew Conway, Michelle  Blom, **Alexander Ek**, Peter J. Stuckey, Vanessa J. Teague, Damjan Vukcevic.
+“Idiosyncratic Properties of Australian STV Election Counting”.
+Presented at E-Vote-ID 2024.
+[Link](https://arxiv.org/abs/2409.11627)
+
 **Alexander Ek**, Maria Garcia de la Banda, Andreas Schutt, Peter J. Stuckey, and Guido Tack.
 “Modelling and Solving Online Optimisation Problems”.
 In: Eighteenth Workshop on Constraint Modelling and Reformulation (ModRef’19), 2019.
 
 ## Teaching
 
-### Monash University (2018-2021)
+### Monash University (2018-2022)
 
-**Head Teaching Associate**. Modelling Discrete Optimisation Problems (FIT5216). Monash University, Australia. 2021, 2020.\
-**Head Teaching Associate**. Solving Discrete Optimisation Problems (FIT5220). Monash University, Australia. 2021, 2020 (x2).\
-**Teaching Associate**. Introduction to Computer Science (FIT1008, FIT1054, FIT2085). Monash University, Australia. 2019.
+**Course Co-Developer**. Discrete Optimisation (Monash Online). Monash University, Australia\
+**Head Tutor/Admin Teaching Associate**. Modelling Discrete Optimisation Problems (FIT5216). Monash University, Australia. 2021, 2020.\
+**Head Tutor/Admin Teaching Associate**. Solving Discrete Optimisation Problems (FIT5220). Monash University, Australia. 2021, 2020 (x2).\
+**Tutor/Teaching Associate**. Introduction to Computer Science (FIT1008, FIT1054, FIT2085). Monash University, Australia. 2019.
 
 ### Uppsala University (2014-2018)
 
-**Teaching Associate**. Operating Systems and Process-Oriented Programming (1DT096). Uppsala University, Sweden. 2018.\
-**Teaching Associate**. Operating Systems (1DT044). Uppsala University, Sweden. 2018.\
-**Teaching Associate**. Algorithms and Data Structures II (1DL231). Uppsala University, Sweden. 2017.\
-**Teaching Associate**. Software Testing (1DL610). Uppsala University, Sweden. 2017.\
-**Teaching Assistant**. Program Design and Data Structures (1DL201). Uppsala University, Sweden. 2015, 2014
+**Tutor/Teaching Associate**. Operating Systems and Process-Oriented Programming (1DT096). Uppsala University, Sweden. 2018.\
+**Tutor/Teaching Associate**. Operating Systems (1DT044). Uppsala University, Sweden. 2018.\
+**Tutor/Teaching Associate**. Algorithms and Data Structures II (1DL231). Uppsala University, Sweden. 2017.\
+**Tutor/Teaching Associate**. Software Testing (1DL610). Uppsala University, Sweden. 2017.\
+**Tutor/Teaching Assistant**. Program Design and Data Structures (1DL201). Uppsala University, Sweden. 2015, 2014
 
 ## Supervision and Mentoring
 
+Assistant Supervisor of PhD student Floyd Everest. Dept. of Econometrics and Business Statistics. Monash University. 2023-present.\
 Co-Supervisor of Research Assistant. School of Mathematics and Statistics. The University of Melbourne. 2023.\
 Co-Supervisor of Undergraduate Research Project. School of Mathematics and Statistics. The University of Melbourne. 2022.\
 Co-Supervisor of Summer Student Research Project. At Optimisation Group, Monash University, Australia. 2020-2021.\
@@ -139,13 +159,9 @@ Student Mentor for the Bachelors’ Programme in Computer Science. At Uppsala Un
 
 ## Service
 
-### To the Community
+Deputy Communications Officer. Statistical Society of Australia, Victorian and Tasmanian Branch. 2024–present
 
-#### Reviewer
-
-Journal of Artificial Intelligence Research (JAIR): 2020 (x2)
-
-### To the University
+Reviewer: Journal of Artificial Intelligence Research (JAIR): 2020 (x2)
 
 Board Member of the Masters’ Programme in Computer Science. Uppsala Univesity, Sweden. 2016.
 
