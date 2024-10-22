@@ -87,19 +87,19 @@ MSc Thesis. Dept. of IT, Uppsala University. 2018.
 
 **Alexander Ek**, Michelle Blom, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
 "Improving the Computational Efficiency of Adaptive Audits of IRV Elections".
-In: Electronic Voting. E-Vote-ID'24. LNCS 15014. Springer, 2023, pp. 37-53.
+In: Electronic Voting (E-Vote-ID'24). LNCS 15014. Springer, 2023, pp. 37-53.
 [Link](https://doi.org/10.1007/978-3-031-72244-8_3)
 
 **Alexander Ek**, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
-"Efficient Weighting
-Schemes for Auditing Instant-Runoff Voting Elections".
-In: Financial Cryptography and Data Security: FC 2024 International Workshops. VOTING’24. LNC. Springer, 2024, Forthcoming.
+"Efficient Weighting Schemes for Auditing Instant-Runoff Voting Elections".
+In: Financial Cryptography and Data Security: FC 2024 International Workshops (VOTING’24). LNCS. Springer, 2024.
+Forthcoming.
 
 #### 2023
 
 **Alexander Ek**, Philip B. Stark, Peter J. Stuckey, and Damjan Vukcevic.
 "Adaptively Weighted Audits of Instant-Runoff Voting Elections: AWAIRE".
-In: Electronic Voting. E-Vote-ID'23. LNCS 14230. Springer, 2023, pp. 35-51.
+In: Electronic Voting (E-Vote-ID'23). LNCS 14230. Springer, 2023, pp. 35-51.
 [Link](https://doi.org/10.1007/978-3-031-43756-4_3)
 
 #### 2022
